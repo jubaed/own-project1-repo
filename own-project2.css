@@ -1,0 +1,25 @@
+.blog{
+    background-color: aqua;
+}
+.name{
+    color: red;
+}
+
+.blog{
+    border: 30px yellow solid ;
+
+    margin-bottom: 30px ;
+    margin-left: 300px;
+    margin-right: 300px;
+  
+}
+
+
+.place-name{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.para{
+    text-align: justify;
+}
